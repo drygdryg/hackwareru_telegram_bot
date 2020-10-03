@@ -22,8 +22,3 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
-
-# Configuration files
-eng_articles.json
-articles.json
-config.json
